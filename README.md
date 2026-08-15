@@ -57,8 +57,7 @@ interests:
   - Building AI Solutions
   - Software Engineering
   - Exploring New Technologies
-
-
+```
 
 ---
 
@@ -115,8 +114,6 @@ interests:
 
 ---
 
-
-
 ## 🏆 Coding Journey
 
 <p align="center">
@@ -134,7 +131,6 @@ interests:
 * 🧩 **LeetCode:** 150+ Problems
 
 ---
-
 
 ## 🔥 Contribution Streak
 
@@ -158,7 +154,6 @@ System Design                  ██████░░░░░░░░░░�
 ```
 
 ---
-
 
 ## 🤝 Let's Connect
 
