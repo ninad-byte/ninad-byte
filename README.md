@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Engineering Student | AI/ML Enthusiast | GenAI Explorer | Problem Solver</b>
+  <b>Computer Engineering Student | AI/ML Enthusiast | GenAI  | Problem Solver</b>
 </p>
 
 <p align="center">
@@ -120,22 +120,7 @@ motto:
 
 ---
 
-## 📚 Currently Learning
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  🧠 Advanced Data Structures & Algorithms             ║
-║  🤖 Machine Learning                                 ║
-║  ✨ Generative AI                                    ║
-║  ⚙️  MLOps                                           ║
-║  🏗️  System Design                                   ║
-║  💻 Competitive Programming                           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🏆 Coding Journey
 
@@ -155,13 +140,13 @@ motto:
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninad-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-byte&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ninad-byte&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ninad-byte&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
