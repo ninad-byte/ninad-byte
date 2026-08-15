@@ -58,12 +58,7 @@ interests:
   - Software Engineering
   - Exploring New Technologies
 
-goal:
-  "Become a strong Software Engineer and build intelligent solutions."
 
-motto:
-  "Learn. Build. Improve. Repeat."
-```
 
 ---
 
@@ -164,21 +159,6 @@ System Design                  ██████░░░░░░░░░░�
 
 ---
 
-## 💭 Developer Mindset
-
-```text
-while (alive) {
-
-    learn();
-    build();
-    solveProblems();
-    makeMistakes();
-    improve();
-
-}
-```
-
----
 
 ## 🤝 Let's Connect
 
