@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ninad%20Mande&fontSize=55&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Ninad%20Mande&fontColor=FFFFFF&fontSize=55&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 <p align="center">
